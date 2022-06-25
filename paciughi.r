@@ -21,3 +21,7 @@ print("----")
 
 print(dgeom(14, 0.05))
 print(pgeom(13, 0.05))
+
+print("----")
+
+

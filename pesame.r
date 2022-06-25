@@ -1,5 +1,5 @@
-esCheSoFare <- 30
-esTotali <- 47
+esCheSoFare <- 33
+esTotali <- 46
 
 # se faccio il recall devo beccarmi due esercizi che so fare per forza
 print((esCheSoFare/esTotali)^2)
