@@ -1,8 +1,12 @@
+n<-15
+p<-0.11
+
 #1
-print(0.11*15)
+ex <- n*p
+print(ex)
 
 #2
-print(8*1.65+10.43)
+print(8*ex+10.43)
 
 #3
-print(dpois(1, 1.65))
+print(dpois(1, ex))
