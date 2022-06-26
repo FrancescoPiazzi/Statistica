@@ -8,7 +8,8 @@ f <- function(x){
 }
 
 #2
-# boh sì si vede coi limiti
+# deve anche essere continua e non decrescente, quello si fa a mano
+print(f(-Inf)==0 && f(+Inf)==1)
 
 #3
 g <- function(x){

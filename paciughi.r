@@ -24,4 +24,5 @@ print(pgeom(13, 0.05))
 
 print("----")
 
-
+# qnorm è "l'inversa" di pnorm
+print(pnorm(qnorm(0.3, 10, 2), 10, 2))
